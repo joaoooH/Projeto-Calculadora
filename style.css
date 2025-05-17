@@ -5,7 +5,7 @@
 }
 .fundo{
     /*mudar a cor de fundo usando cores misturadas*/
-    background-image: radial-gradient(gray);
+    background-image: radial-gradient(grey);
     /*vh quer dizer que ele vai pegar na vertical e na horizontal*/
     min-height:100vh; /* Mantemos o min-height para garantir a altura mínima */
     /*mudar a cor do texto */
